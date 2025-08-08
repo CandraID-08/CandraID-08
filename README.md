@@ -1,4 +1,4 @@
-## Hi there 👋
+## EAST BLUE 
 
 <!--
 **CandraID-08/CandraID-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+>![still learn](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE1bnh3dXd5MzQyODRpMG5zd2NucmUxcDZxdDk2NDlvMGhrdWl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rCdzKS756yiGs/giphy.gif)
+
+> 🌱 I’m currently learning [~~web.service~~](https://dicoding.com)🎶👾
